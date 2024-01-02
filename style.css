@@ -1,0 +1,22 @@
+#game-console {
+    background-color: black;
+    color: lime;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 20px;
+    width: 600px;
+    height: 400px;
+    margin: auto;
+    overflow-y: auto;
+}
+
+#game-output {
+    white-space: pre-wrap;
+}
+
+#game-input {
+    width: 100%;
+    color: lime;
+    background-color: black;
+    border: none;
+    font-family: 'Courier New', Courier, monospace;
+}
